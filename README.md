@@ -1,4 +1,10 @@
-### Hi there 👋
+### Привет мир! 👋
+
+Меня зовут Никита.
+В своих проектах я использовал:
+  - Python, C++;
+  - SQLite3, PostgreSQL;
+  - Django.
 
 <!--
 **chertkov-nikita/chertkov-nikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
