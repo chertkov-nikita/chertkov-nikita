@@ -1,5 +1,5 @@
 <h1 align="center">Привет мир! 👋</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Меня+зовут+Никита.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <br>
 В своих проектах я использовал:
   - Python, C++;
