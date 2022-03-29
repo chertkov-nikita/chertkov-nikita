@@ -1,5 +1,6 @@
 <h1 align="center">Привет мир! 👋</h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Меня+зовут+Никита.)](https://git.io/typing-svg)</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Меня+зовут+Никита.)](https://git.io/typing-svg)
+<br>
 В своих проектах я использовал:
   - Python, C++;
   - SQLite3, PostgreSQL;
