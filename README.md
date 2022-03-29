@@ -1,9 +1,10 @@
-<h1 align="center">Привет мир! 👋</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0.)](https://git.io/typing-svg)
+### Привет мир! 👋
+
+Меня зовут Никита.
 В своих проектах я использовал:
-  - Python, C++
-  - SQLite3, PostgreSQL
-  - Django
+  - Python, C++;
+  - SQLite3, PostgreSQL;
+  - Django.
 
 <!--
 **chertkov-nikita/chertkov-nikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
