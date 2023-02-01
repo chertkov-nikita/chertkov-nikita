@@ -3,7 +3,7 @@
 Меня зовут Никита.
 В своих проектах я использую:
   - Python, C++;
-  - SQLite3, PostgreSQL;
+  - SQLite, PostgreSQL;
   - Django.
 
 <!--
